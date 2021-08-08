@@ -1,0 +1,3 @@
+displayName = Minimis
+author = Fundas
+version = 0.1
